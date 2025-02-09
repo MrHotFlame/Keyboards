@@ -1,2 +1,6 @@
 # SwagSplit
-Files for my own split keeb
+My very own split keeb
+
+RJ9 Interconnect
+Direct wire
+Marble Pico
