@@ -6,7 +6,7 @@ Specs:
 - Direct wire, no diodes
 - Marble Pico MCU
 
-![](PCB.png)
+![](Swagsplit/Images/PCB.png)
 
 # Swag44
 My own Planck like ortholinear handwired keyboard.
