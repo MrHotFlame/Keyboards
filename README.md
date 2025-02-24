@@ -1,9 +1,10 @@
 # SwagSplit
 My very own split keyboard.
 
-      Specs: RJ9 Interconnect cable
-      Direct wire, no diodes
-      Marble Pico MCU
+Specs:
+- RJ9 Interconnect cable
+- Direct wire, no diodes
+- Marble Pico MCU
 
 ![](PCB.png)
 
