@@ -9,6 +9,11 @@ Specs:
 ![](Swagsplit/Images/PCB.png)
 
 # Swag44
-My own Planck like ortholinear handwired keyboard.
+My own Planck like ortholinear keyboard.
+
+Specs:
+- RP2040 Zero MCU
+- Handwired
+- Split spacebar
 
 ![](Swag44/Images/wiring.png)
