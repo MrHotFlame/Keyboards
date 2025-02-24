@@ -11,4 +11,5 @@ Specs:
 # Swag44
 My own Planck like ortholinear handwired keyboard.
 
+![](Swag44/Images/wiring.png)
 ![](Swag44/Images/image.png)
