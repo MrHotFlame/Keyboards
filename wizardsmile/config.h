@@ -1,0 +1,9 @@
+#pragma once
+
+#define MATRIX_ROWS 4
+#define MATRIX_COLS 10
+
+#define MATRIX_ROW_PINS { GP12, GP11, GP10, GP9 }
+#define MATRIX_COL_PINS { GP29, GP28, GP27, GP26, GP15, GP14, GP1, GP2, GP3, GP4 }
+
+#define DIODE_DIRECTION COL2ROW

@@ -1,0 +1,72 @@
+﻿{
+    "keyboard_name": "wizardsmile",
+    "manufacturer": "flamed",
+    "processor": "RP2040",
+    "processor_type": "arm",
+    "bootloader": "rp2040",
+    "protocol": "usb",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0000",
+        "device_version": "1.0.0"
+    },
+    "matrix_size": {
+        "rows": 4,
+        "cols": 10
+    },
+    "matrix_pins": {
+        "rows": ["GP12", "GP11", "GP10", "GP9"],
+        "cols": ["GP29", "GP28", "GP27", "GP26", "GP15", "GP14", "GP1", "GP2", "GP3", "GP4"]
+    },
+    "diode_direction": "COL2ROW",
+    "debounce": 5,
+    "features": {
+ 
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "label": "K000", "matrix": [0, 0], "w": 1, "x": 0, "y": 0 },
+                { "label": "K001", "matrix": [0, 1], "w": 1, "x": 1, "y": 0 },
+                { "label": "K002", "matrix": [0, 2], "w": 1, "x": 2, "y": 0 },
+                { "label": "K003", "matrix": [0, 3], "w": 1, "x": 3, "y": 0 },
+                { "label": "K004", "matrix": [0, 4], "w": 1, "x": 4, "y": 0 },
+                { "label": "K005", "matrix": [0, 5], "w": 1, "x": 5, "y": 0 },
+                { "label": "K006", "matrix": [0, 6], "w": 1, "x": 6, "y": 0 },
+                { "label": "K007", "matrix": [0, 7], "w": 1, "x": 7, "y": 0 },
+                { "label": "K008", "matrix": [0, 8], "w": 1, "x": 8, "y": 0 },
+                { "label": "K009", "matrix": [0, 9], "w": 1, "x": 9, "y": 0 },
+                { "label": "K100", "matrix": [1, 0], "w": 1, "x": 0, "y": 1 },
+                { "label": "K101", "matrix": [1, 1], "w": 1, "x": 1, "y": 1 },
+                { "label": "K102", "matrix": [1, 2], "w": 1, "x": 2, "y": 1 },
+                { "label": "K103", "matrix": [1, 3], "w": 1, "x": 3, "y": 1 },
+                { "label": "K104", "matrix": [1, 4], "w": 1, "x": 4, "y": 1 },
+                { "label": "K105", "matrix": [1, 5], "w": 1, "x": 5, "y": 1 },
+                { "label": "K106", "matrix": [1, 6], "w": 1, "x": 6, "y": 1 },
+                { "label": "K107", "matrix": [1, 7], "w": 1, "x": 7, "y": 1 },
+                { "label": "K108", "matrix": [1, 8], "w": 1, "x": 8, "y": 1 },
+                { "label": "K109", "matrix": [1, 9], "w": 1, "x": 9, "y": 1 },
+                { "label": "K200", "matrix": [2, 0], "w": 1, "x": 0, "y": 2 },
+                { "label": "K201", "matrix": [2, 1], "w": 1, "x": 1, "y": 2 },
+                { "label": "K202", "matrix": [2, 2], "w": 1, "x": 2, "y": 2 },
+                { "label": "K203", "matrix": [2, 3], "w": 1, "x": 3, "y": 2 },
+                { "label": "K204", "matrix": [2, 4], "w": 1, "x": 4, "y": 2 },
+                { "label": "K205", "matrix": [2, 5], "w": 1, "x": 5, "y": 2 },
+                { "label": "K206", "matrix": [2, 6], "w": 1, "x": 6, "y": 2 },
+                { "label": "K207", "matrix": [2, 7], "w": 1, "x": 7, "y": 2 },
+                { "label": "K208", "matrix": [2, 8], "w": 1, "x": 8, "y": 2 },
+                { "label": "K209", "matrix": [2, 9], "w": 1, "x": 9, "y": 2 },
+                { "label": "K300", "matrix": [3, 0], "w": 1, "x": 0, "y": 3 },
+                { "label": "K301", "matrix": [3, 1], "w": 1, "x": 1, "y": 3 },
+                { "label": "K302", "matrix": [3, 2], "w": 1, "x": 2, "y": 3 },
+                { "label": "K303", "matrix": [3, 3], "w": 1, "x": 3, "y": 3 },
+                { "label": "K304", "matrix": [3, 4], "w": 1, "x": 4, "y": 3 },
+                { "label": "K305", "matrix": [3, 5], "w": 1, "x": 5, "y": 3 },
+                { "label": "K306", "matrix": [3, 6], "w": 1, "x": 6, "y": 3 },
+                { "label": "K307", "matrix": [3, 7], "w": 1, "x": 7, "y": 3 },
+                { "label": "K308", "matrix": [3, 8], "w": 1, "x": 8, "y": 3 },
+                { "label": "K309", "matrix": [3, 9], "w": 1, "x": 9, "y": 3 }
+            ]
+        }
+    }
+}
